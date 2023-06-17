@@ -1,0 +1,15 @@
+#dvPreview
+{
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=image);
+    height: 200px;
+    display: none;
+}
+.alert-danger {
+    background-color: #CF6679;
+    border-color: #CF6679;
+    color: white;
+    margin-top: 5px;
+}
+#dvPreview img{
+    height: 150px;
+}

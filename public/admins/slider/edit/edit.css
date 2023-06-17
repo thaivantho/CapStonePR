@@ -1,0 +1,11 @@
+img.slide_image{
+    height: 200px;
+    object-fit: cover;
+}
+
+.alert-danger {
+    background-color: #CF6679;
+    border-color: #CF6679;
+    color: white;
+    margin-top: 5px;
+}

@@ -1,0 +1,10 @@
+.select2-selection__choice{
+    background-color: #6667AB !important;
+}
+
+.alert-danger {
+    background-color: #CF6679;
+    border-color: #CF6679;
+    color: white;
+    margin-top: 5px;
+}
